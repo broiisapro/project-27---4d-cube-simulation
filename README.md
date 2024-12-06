@@ -26,15 +26,19 @@ This project creates a 3D rotating cube using Pygame and NumPy, where the cube i
 - The gradient cycle speed can be changed by modifying the `max_time` variable.
 
 ---
-Music Used:
+Music Used in demo:
+
 Local Forecast - Slower by Kevin MacLeod
-Link: https://incompetech.filmmusic.io/song...
-License: http://creativecommons.org/licenses/b...
+Link: https://incompetech.filmmusic.io/song/3988-local-forecast---slower
+License: https://creativecommons.org/licenses/by/4.0/
+Credited as video description states
 
 Sneaky Snitch by Kevin MacLeod
-Link: https://incompetech.filmmusic.io/song...
-License: http://creativecommons.org/licenses/b...
+Link: https://incompetech.filmmusic.io/song/4384-sneaky-snitch
+License: https://creativecommons.org/licenses/by/4.0/
+Credited as video description states
 
 Monkeys Spinning Monkeys by Kevin MacLeod
-Link: https://incompetech.filmmusic.io/song...
-License: http://creativecommons.org/licenses/b...
+Link: https://incompetech.filmmusic.io/song/4071-monkeys-spinning-monkeys
+License: https://creativecommons.org/licenses/by/4.0/
+Credited as video description states
