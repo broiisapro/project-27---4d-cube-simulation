@@ -42,3 +42,5 @@ Monkeys Spinning Monkeys by Kevin MacLeod
 Link: https://incompetech.filmmusic.io/song/4071-monkeys-spinning-monkeys
 License: https://creativecommons.org/licenses/by/4.0/
 Credited as video description states
+
+readme made with AI assistance
